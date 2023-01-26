@@ -1,5 +1,5 @@
 # 2048
-Based on the popular game 2048 by Gabriele Cirulli. . It is a Single-Player Sliding Tile Puzzle Game.
+Based on the popular game 2048 by Gabriele Cirulli. It is a Single-Player Sliding Tile Puzzle Game.
 
 
 # About The Project
