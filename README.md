@@ -1,9 +1,7 @@
 # 2048
 Based on the popular game 2048 by Gabriele Cirulli. It is a Single-Player Sliding Tile Puzzle Game.
 
-
-[![](https://i.postimg.cc/DfRMtmpR/2048-preview.png)](https://i.postimg.cc/DfRMtmpR/2048-preview.png)
-
+[![](https://i.postimg.cc/v8KzcjWn/2048-preview.png)](https://i.postimg.cc/v8KzcjWn/2048-preview.png)
 # About The Project
 
 The objective of the game is to slide numbered tiles on a grid to combine them to create a tile with the number 2048.
